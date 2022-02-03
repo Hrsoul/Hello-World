@@ -1,0 +1,1 @@
+A HRSoul foi criada visando atender as necessidades do mercado de TI, Telecom e Engenharia, suprindo a carência de consultorias com expertise na área, assim como inovar os processos de Recursos Humanos para os demais segmentos.
