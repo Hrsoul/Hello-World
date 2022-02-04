@@ -9,7 +9,7 @@
 <p> Criada visando atender as necessidades do mercado de TI, Telecom e Engenharia, suprindo a carência de consultorias com expertise na área, assim como inovar os processos de Recursos Humanos para os demais segmentos. 
 </p>
  
-<p align="left"> Meus contatos: </p>
+<p align="left"> Contatos: </p>
 
 <a href="mailto:recrutamento@hrsoul.com.br" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:recrutamento@hrsoul.com.br" /></a>
 <a href="https://br.linkedin.com/company/hr-soul" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/company/hr-soul" /></a>
