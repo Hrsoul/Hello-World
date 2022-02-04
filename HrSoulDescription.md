@@ -24,6 +24,6 @@
  
 <br>
 
-# Está em busca de oportunidades ou um novo desafio? Me chama 🚀
+# Está em busca de oportunidades ou um novo desafio? Entre em contato 🚀
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
